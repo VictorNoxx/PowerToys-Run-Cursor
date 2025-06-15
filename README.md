@@ -136,10 +136,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 5. Submit a pull request
 
 ## 👥 Contributors
-
-- [@VictorNoxx](https://github.com/VictorNoxx) - Project maintainer
-- [@artickc](https://github.com/artickc) - Core contributor
-- NOXX Agency - Copyright holder
+- [@artickc](https://github.com/artickc)
 
 ## 📝 License
 
